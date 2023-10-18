@@ -1,0 +1,49 @@
+body{   
+font-family: 'Open Sans', sans-serif;
+font-family: 'Work Sans', sans-serif;
+margin: 0px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+}
+header{
+ background-image: url(../images/banner/banner3.png);
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+.banner{
+    text-align: right;
+    padding-top: 216px;
+    padding-right: 230px;
+    padding-bottom: 166px;
+    padding-left: 845px;
+
+}
+.motto
+{
+    color: #FFF;
+font-size: 65px;
+font-weight: 700;
+
+}
+.motto-des{
+    color: #FFF;
+    text-align: right;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px; /* 162.5% */
+    margin-bottom: 0px;
+  
+}
+.btn-primar{
+    color: #005FAC;
+    text-align: right;
+    font-size: 20px;
+    font-weight: 600;
+    background: #FFF;
+    border-radius: 5px;
+    border: 0px;
+    padding: 18px 35px;
+    margin-top: 50px;
+    
+}
