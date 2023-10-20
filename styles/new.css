@@ -11,6 +11,7 @@ background-size: cover;
 
 
 }
+
 .banner{
     text-align: right;
     padding-top: 216px;
@@ -46,4 +47,33 @@ font-weight: 700;
     padding: 18px 35px;
     margin-top: 50px;
     
+}
+.failure{
+    padding: 140px 325px 210px 230px;
+}
+
+.fail{
+    display: flex;
+    gap: 135px;
+    justify-content: space-between;
+
+}
+.section-title{
+    color: var(--Dark-01, #151414);
+font-size: 40px;
+font-weight: 700;
+}
+.sec-des{
+    color: var(--Dark-02, #444343);
+font-size: 16px;
+font-weight: 500;
+}
+.list{
+    color: var(--Dark-02, #444343);
+font-size: 16px;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+}
+.texts{
+    padding-top: 230px;
 }
